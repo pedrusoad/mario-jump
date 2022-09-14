@@ -5,6 +5,7 @@ Olá, esse projeto foi meu primeiro game utilizando HTML, CSS e JavaScript.
 Precione qualquer tecla para fazer o Mario pular os canos do cenário sem toca-los.
 Quando Mario morrer precione F5 para reiniciar o jogo.
 
+Clique no link para jogar: <a href="https://pedrusoad.github.io/mario-jump/">Mario Jump</a>
 
 ========== ATUALIZAÇÕES DO MARIO JUMP ==========
 1.AS NUVENS PARAM DE SE MOVER QUANDO MARIO MORRE;
